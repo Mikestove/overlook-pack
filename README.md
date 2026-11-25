@@ -38,15 +38,17 @@ With the weapon in your hand:
 | I | inventory |
 | Mouse wheel | zoom |
 | [ and ], or drag with the middle button | turn the view |
-| K | classes and skills |
+| K | skills: spend points, pick upgrades, switch class |
 | F6 | ordinary first-person Minecraft, and back |
 
 Put the weapon away (pick another hotbar slot) and it is ordinary Minecraft seen from above: W A S D walk,
 and the mouse mines, builds and opens whatever the cursor is on. Roofs, cave ceilings and treetops are cut
 away whenever they would hide your hero.
 
-Kills give experience. Each level adds to your skills' damage and your health, up to level 30, and each
-class keeps its own level, so you can switch.
+Kills give experience, up to level 30. Every level gives two skill points. Each of the four skills on
+Q W E R can be raised to level 10, and at skill level 4, 7 and 10 you choose one of several upgrades that
+change how the skill works: wider, faster, burning, stunning, more arrows, a second explosion. Points can
+be taken back and spent again at any time. Each class keeps its own level and skills, so you can switch.
 
 ## What's inside
 
@@ -66,10 +68,13 @@ Sophisticated Backpacks
 
 **Help and comfort:** JEI (recipes), AppleSkin, Mouse Tweaks, Farmer's Delight, FallingTree
 
+**Looks:** Iris with Complementary Reimagined shaders on by default (BSL is included too; press O to choose)
+
 **Smoother play:** Sodium, Lithium, FerriteCore, ModernFix
 
 ## Good to know
 
-- Shader mods and mods that take over the camera are left out on purpose: they fight with the top-down view.
+- Mods that take over the camera are left out on purpose: they fight with the top-down view.
+- The shader mod's "reload" and "toggle" keys start unbound, because R and K are used by the game here.
 - The pack is young. The classes have been tested on their own; playing through the dungeons and bosses
   with them has not been balanced yet.
