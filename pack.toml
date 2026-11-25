@@ -1,0 +1,13 @@
+name = "Overlook"
+author = "StoverTech"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b6ddb4b072b212053c418cafe344fa47d7915acc26d1ccfabf038396040a2638"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.258"
