@@ -20,6 +20,23 @@ The instance asks for up to 6 GB of memory; change it in the instance's settings
 
 ## How it plays
 
+You begin in **Haven**, a village on an island: traders, practice dummies to try your skills on, and a
+Waygate north of the square. The gate leads to the zones, each its own island with a level range, enemy
+camps along a road, and a boss waiting in a ring of standing stones at the far end. Beating a zone's boss
+opens the next:
+
+| Zone | Levels | Boss |
+|---|---|---|
+| Greenhollow | 1 to 4 | Old Tusk |
+| Whisperwood | 5 to 9 | The Broodmother |
+| Sunscar Ruins | 10 to 15 | The Sand King |
+| Frostfang Pass | 16 to 22 | The Frost Warden |
+| Emberdeep | 23 to 30 | The Ashlord |
+
+Bosses mark the ground before they strike: get out of the circle. If you fall you wake in Haven, and your
+Hearthstone takes you back there from anywhere. The gate also leads to **The Wilds**, the ordinary open
+Minecraft world with all its dungeons, for when you want no walls.
+
 When you join a world you choose a class and are handed its weapon:
 
 - **Vanguard**: a greatsword. Tough, and hits everything around.
