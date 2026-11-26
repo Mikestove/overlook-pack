@@ -73,7 +73,7 @@ Playing together: at a gate, whoever chooses the place takes every hero standing
 the box on the gate's map to go alone), and every player shows on everyone's minimap and world map wherever
 they are. On a server of your own, set `everyone_tracks_everyone = true` in `config/xaero/lib/common.cfg`
 for the map part. Each other hero's name, level and health show down the left of the screen, under the
-minimap, with the place they are in if it is not yours. Also: everyone near a kill gets the experience and silver and their own drops for their own
+minimap, with the place they are in if it is not yours. Also: everyone near a kill gets the experience and silver and their own drops, which nobody else can see or take, for their own
 class, heroes cannot hurt each other, camps hold more enemies for each extra hero nearby, and elites and bosses
 met by a party are sturdier.
 
