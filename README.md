@@ -40,6 +40,13 @@ far end. Tell the Captain in Haven, and the next island opens:
 | Frostfang Pass | 16 to 22 | The Frost Warden |
 | Emberdeep | 23 to 30 | The Ashlord |
 
+The realm has its own creatures, three kinds to a zone and a boss at the end of each road: Rotwalkers,
+Tusklings and Strawmen in Greenhollow under **Old Tusk**; Webspinners, Boneguards and Wisp Hags in the
+Whisperwood under **the Broodmother**; Sandwalkers, Scarabs and Dune Raiders in Sunscar under **the Sand
+King**; Frostbound, Rime Wolves and Ice Wraiths in Frostfang under **the Frost Warden**; Ashen, Cinder
+Hounds and Flame Callers in Emberdeep under **the Ashlord**. Some come at you, some leap, some hang back
+and throw things: step out of the way.
+
 The islands grow as you go: each zone is larger than the last, with more bands of enemies along its
 road. Every zone also has a **dungeon**. Look for a dark stone with a burning doorway on it, standing
 between four lit pillars a little way off the road; right click it to go down. Inside are rooms of the
@@ -87,6 +94,12 @@ Armour is made for one class, and each class has its own look in five tiers, one
 Vanguard's plate, the Arcanist's hooded robes, the Ranger's leathers. Weapons change with their tier too.
 Enemies also drop **shards** (one kind per zone). Take them to Dorran the Smith and choose "Upgrade my
 gear": each upgrade, up to +5, adds 10% to a piece's numbers for a few shards and some silver.
+
+Armour and weapons are shaped as well as coloured: pauldrons, crests and horns on the Vanguard's plate, a
+hood, mantle and skirts on the Arcanist, a cowl, quiver and cloak on the Ranger, more with every tier.
+
+Roofs lift away when you walk indoors. Out of doors nothing is hidden: a hero or an enemy behind a tree or
+a wall shows through it in outline, gold for you and red for them.
 
 Weapons and armour wear with use, and more when you fall; the bar under a piece shows its condition. A
 broken piece adds nothing until the Smith mends it ("Mend all my gear"). He also breaks old gear up for
