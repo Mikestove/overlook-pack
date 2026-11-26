@@ -64,7 +64,10 @@ The host of the world sets the **difficulty** for each player from the pause men
 or *Veteran*. Players on different settings share the same world. On a server, operators are the hosts, and
 `/overlook difficulty <player> <little|normal|veteran>` does the same from the console.
 
-Playing together: everyone near a kill gets the experience and silver and their own drops for their own
+Playing together: at a gate, whoever chooses the place takes every hero standing by the gate along (untick
+the box on the gate's map to go alone), and every player shows on everyone's minimap and world map wherever
+they are. On a server of your own, set `everyone_tracks_everyone = true` in `config/xaero/lib/common.cfg`
+for the map part. Also: everyone near a kill gets the experience and silver and their own drops for their own
 class, heroes cannot hurt each other, camps hold more enemies for each extra hero nearby, and elites and bosses
 met by a party are sturdier.
 

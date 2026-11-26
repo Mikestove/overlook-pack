@@ -6,6 +6,10 @@ hash = "5a9df5acdb6eeb2d2dfe443c37a41e4667e69a07e60dfda0831498c9e5eba681"
 preserve = true
 
 [[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "d46dfe4bfd416bfcdd2b757d33744b4e4595f489b6507eae3c62f5389b11a7c1"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "1801f6f6bf0bd7eaf33544c0ad137f9162aa35239a030efe29a899f5c28bddfa"
 metafile = true
@@ -147,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/overlook.jar"
-hash = "8b7a1d41c5e2a54d802c19e0a2c755bab3bb50a80c0cff7a5f3e78099e8a6412"
+hash = "e94d5a9968d169cb7798de41991487257982a2c0f4d19c84170fb5725b883e16"
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
