@@ -107,6 +107,12 @@ When you join a world you choose a class and are handed its weapon:
 - **Vanguard**: a greatsword. Tough, and hits everything around.
 - **Arcanist**: a staff. Fragile, with fire, ice and the biggest hits.
 - **Ranger**: a longbow. Quick, and fights from far away.
+- **Templar**: a warhammer. Sturdy, and heals and shields the whole party.
+- **Shadowblade**: twin blades. Slippery: appears behind an enemy, vanishes in smoke.
+- **Lancer**: a spear. Long reach, and skills that run a whole line of enemies through.
+
+Each class keeps its own level, and you can switch between them at any time from the skills screen. Gear comes
+in ten tiers, a new look every few zones, up to level 100.
 
 | | |
 |---|---|
