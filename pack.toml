@@ -1,12 +1,12 @@
 name = "Overlook"
 author = "StoverTech"
-version = "0.8.8"
+version = "0.8.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a1174a056a2cb88bc447d1ff266676813416844b4a564e54a69e0a17a04e4016"
+hash = "cfda7624150a7140cc92f807106dbf3d043d4c162fa09df431a8605ce96dab5b"
 
 [versions]
 minecraft = "1.21.1"

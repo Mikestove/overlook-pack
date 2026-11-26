@@ -32,6 +32,10 @@ your first steps. Down the south avenue are the traders: the Armourer and the We
 market stalls (new stock every morning), the Alchemist for healing draughts, the Provisioner for potions and
 food, and the Smith, who upgrades and mends gear and breaks up what you do not want. All of them buy gear.
 
+Just east of the gate is the **Heroes' Lodge**, the house with the teal roof and gold at its door. It is
+yours: the dark chests inside are a stash, and what you put in one only you will find there again. Your bag
+holds 54 things besides the belt; when the top half is full, what you pick up goes into the bottom half.
+
 The **Waygate** north of the square leads to the zones. Each is its own island with a level range and a
 scout waiting by the gate with that island's quests: thin the enemy, find the treasure caches (a pillar of
 gold light marks each one), kill the two named elites in their lairs, and then the boss in its arena at the
@@ -96,7 +100,8 @@ When you join a world you choose a class and are handed its weapon:
 | J | quest journal |
 | I or P | your hero: what you wear, your numbers, your bag |
 | Mouse wheel | zoom |
-| [ and ], or drag with the middle button | turn the view |
+| [ and ], or drag with the middle button | turn the view (dragging up and down tilts it) |
+| Double click the middle button, or Home | put the view back as it was |
 | F6 | ordinary first-person Minecraft, and back |
 
 A gold pointer at your hero's feet shows the way to your current quest, and the quest list sits at the
