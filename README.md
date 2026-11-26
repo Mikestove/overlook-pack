@@ -58,10 +58,9 @@ When you join a world you choose a class and are handed its weapon:
 | R | ultimate |
 | Space | dodge toward the cursor |
 | F | drink a Healing Draught |
-| P | character: what you wear, your numbers, the gear in your bag |
 | K | skills: spend points, pick upgrades, switch class |
 | J | quest journal |
-| I | inventory |
+| I or P | your hero: what you wear, your numbers, your bag |
 | Mouse wheel | zoom |
 | [ and ], or drag with the middle button | turn the view |
 | F6 | ordinary first-person Minecraft, and back |
@@ -73,7 +72,12 @@ right of the screen.
 Every piece has an item level and a rarity (common, uncommon, rare, epic, legendary), shown by the colour
 of its name and of the light over it on the ground, and rolls its own bonuses: damage, health, critical
 chance, faster cooldowns, energy. There are seven slots: weapon, head, chest, legs, feet, ring and amulet.
-Press P and click a piece in your bag to wear it; a green arrow marks likely upgrades.
+Press I or P for your hero's own inventory and right click a piece to wear it.
+
+Armour is made for one class, and each class has its own look in five tiers, one for each zone: the
+Vanguard's plate, the Arcanist's hooded robes, the Ranger's leathers. Weapons change with their tier too.
+Enemies also drop **shards** (one kind per zone). Take them to Dorran the Smith and choose "Upgrade my
+gear": each upgrade, up to +5, adds 10% to a piece's numbers for a few shards and some silver.
 
 Kills and quests give experience, up to level 30. Every level gives two skill points. Each of the four
 skills on Q W E R can be raised to level 10, and at skill level 4, 7 and 10 you choose one of several
