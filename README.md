@@ -69,7 +69,9 @@ zone's toughest enemies, treasure rooms at the dead ends, and the dungeon's mast
 drops far more than anything on the island above. A stone in the first room and one in the master's hall
 lead back out.
 
-Bosses mark the ground before they strike, each in its own pattern: get out of the circles. If you fall
+Bosses are long fights. Each marks the ground before it strikes, in patterns of its own: get out of the
+circles. Twice, as its health falls, a boss wards itself and cannot be hurt until the guard it calls is cut
+down; in its last quarter everything comes faster; and it mends completely if everyone leaves or falls. If you fall
 you wake in Haven with everything you were carrying, and **H** recalls you there from anywhere, once a
 minute. The gate also leads to **The Wilds**, the ordinary open Minecraft world with all its dungeons, for
 when you want no walls.
