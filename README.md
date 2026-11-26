@@ -85,8 +85,12 @@ lead back out.
 Bosses are long fights. Each marks the ground before it strikes, in patterns of its own: get out of the
 circles. Twice, as its health falls, a boss wards itself and cannot be hurt until the guard it calls is cut
 down; in its last quarter everything comes faster; and it mends completely if everyone leaves or falls. If you fall
-you wake in Haven with everything you were carrying, and **H** recalls you there from anywhere, once a
-minute. The gate also leads to **The Wilds**, the ordinary open Minecraft world with all its dungeons, for
+you wake in Haven with everything you were carrying.
+
+**Travel is by waystone.** Each island has four: one at its gate, and three along its road that you must
+walk up to before you can travel to them. Use a waystone (or the Waygate in Haven) to open the travel map,
+pick a stone you have found, and pay the fare in silver: more for the far islands. **H** opens the same map
+from anywhere, at double the fare. The map also leads to **The Wilds**, the ordinary open Minecraft world with all its dungeons, for
 when you want no walls.
 
 The host of the world sets the **difficulty** for each player from the pause menu (Esc, then Difficulty):
@@ -122,7 +126,7 @@ in ten tiers, a new look every few zones, up to level 100.
 | R | ultimate |
 | Space | dodge toward the cursor |
 | F | drink a Healing Draught |
-| H | recall to Haven |
+| H | travel map (waystones) |
 | K | skills: spend points, pick upgrades, switch class |
 | J | your journal: quests, how much of each place you have found and done, and your records |
 | I or P | your hero: what you wear, your numbers, your bag |
