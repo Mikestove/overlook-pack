@@ -18,6 +18,11 @@ You need [Prism Launcher](https://prismlauncher.org/) and a Minecraft Java accou
 
 The instance asks for up to 6 GB of memory; change it in the instance's settings if needed.
 
+**If Play stops with "Pre-Launch command failed"** and the log line above it begins with `-jar`, Prism has
+no Java to run the pack's updater with. In Prism open **Settings**, then **Java**, and tick
+**Auto-detect Java version** and **Auto-download Mojang Java** (or install Java 21 yourself and press
+**Auto-detect** there). Then press Play again.
+
 ## How it plays
 
 You begin in **Haven**, a walled village on an island, with a quest already in your journal. The people
