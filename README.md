@@ -20,10 +20,16 @@ The instance asks for up to 6 GB of memory; change it in the instance's settings
 
 ## How it plays
 
-You begin in **Haven**, a village on an island: traders, practice dummies to try your skills on, and a
-Waygate north of the square. The gate leads to the zones, each its own island with a level range, enemy
-camps along a road, and a boss waiting in a ring of standing stones at the far end. Beating a zone's boss
-opens the next:
+You begin in **Haven**, a walled village on an island, with a quest already in your journal. The people
+of the village have gold marks over their heads: **!** means they have work for you, **?** means they are
+waiting to hear how it went. Right click them to talk. The Elder, the Trainer and the Smith walk you through
+your first steps; the Smith, the Alchemist and the Provisioner sell gear, healing draughts and supplies for
+silver, and buy the gear you do not want.
+
+The **Waygate** north of the square leads to the zones. Each is its own island with a level range and a
+scout waiting by the gate with that island's quests: thin the enemy, find the treasure caches (a pillar of
+gold light marks each one), kill the two named elites in their lairs, and then the boss in its arena at the
+far end. Tell the Captain in Haven, and the next island opens:
 
 | Zone | Levels | Boss |
 |---|---|---|
@@ -33,9 +39,10 @@ opens the next:
 | Frostfang Pass | 16 to 22 | The Frost Warden |
 | Emberdeep | 23 to 30 | The Ashlord |
 
-Bosses mark the ground before they strike: get out of the circle. If you fall you wake in Haven, and your
-Hearthstone takes you back there from anywhere. The gate also leads to **The Wilds**, the ordinary open
-Minecraft world with all its dungeons, for when you want no walls.
+Bosses mark the ground before they strike, each in its own pattern: get out of the circles. If you fall
+you wake in Haven with everything you were carrying, and your Hearthstone takes you back there from
+anywhere. The gate also leads to **The Wilds**, the ordinary open Minecraft world with all its dungeons, for
+when you want no walls.
 
 When you join a world you choose a class and are handed its weapon:
 
@@ -43,33 +50,44 @@ When you join a world you choose a class and are handed its weapon:
 - **Arcanist**: a staff. Fragile, with fire, ice and the biggest hits.
 - **Ranger**: a longbow. Quick, and fights from far away.
 
-With the weapon in your hand:
-
 | | |
 |---|---|
-| Right click, or hold | walk to the cursor |
+| Right click, or hold | walk to the cursor; on a person, a gate or a cache: walk up and use it |
 | Left click | basic attack |
 | Q, W, E | skills |
 | R | ultimate |
 | Space | dodge toward the cursor |
+| F | drink a Healing Draught |
+| P | character: what you wear, your numbers, the gear in your bag |
+| K | skills: spend points, pick upgrades, switch class |
+| J | quest journal |
 | I | inventory |
 | Mouse wheel | zoom |
 | [ and ], or drag with the middle button | turn the view |
-| K | skills: spend points, pick upgrades, switch class |
 | F6 | ordinary first-person Minecraft, and back |
 
-Put the weapon away (pick another hotbar slot) and it is ordinary Minecraft seen from above: W A S D walk,
-and the mouse mines, builds and opens whatever the cursor is on. Roofs, cave ceilings and treetops are cut
-away whenever they would hide your hero.
+A gold pointer at your hero's feet shows the way to your current quest, and the quest list sits at the
+right of the screen.
 
-Kills give experience, up to level 30. Every level gives two skill points. Each of the four skills on
-Q W E R can be raised to level 10, and at skill level 4, 7 and 10 you choose one of several upgrades that
-change how the skill works: wider, faster, burning, stunning, more arrows, a second explosion. Points can
-be taken back and spent again at any time. Each class keeps its own level and skills, so you can switch.
+**Gear** drops from enemies (elites and bosses always drop some), sits in caches and comes from quests.
+Every piece has an item level and a rarity (common, uncommon, rare, epic, legendary), shown by the colour
+of its name and of the light over it on the ground, and rolls its own bonuses: damage, health, critical
+chance, faster cooldowns, energy. There are seven slots: weapon, head, chest, legs, feet, ring and amulet.
+Press P and click a piece in your bag to wear it; a green arrow marks likely upgrades.
+
+Kills and quests give experience, up to level 30. Every level gives two skill points. Each of the four
+skills on Q W E R can be raised to level 10, and at skill level 4, 7 and 10 you choose one of several
+upgrades that change how the skill works: wider, faster, burning, stunning, more arrows, a second
+explosion. Points can be taken back and spent again at any time. Each class keeps its own level and skills,
+so you can switch.
+
+Outside the islands (in The Wilds), put the weapon away and it is ordinary Minecraft seen from above:
+W A S D walk, and the mouse mines, builds and opens whatever the cursor is on. Roofs, cave ceilings and
+treetops are cut away whenever they would hide your hero.
 
 ## What's inside
 
-**The game itself:** Overlook (the top-down view, classes, skills and levels)
+**The game itself:** Overlook (the top-down view, classes, skills, gear, quests, the village and the zones)
 
 **Places to fight through:** When Dungeons Arise, YUNG's Better Dungeons, Mineshafts, Strongholds, Desert
 Temples, Jungle Temples, Nether Fortresses, Ocean Monuments and Witch Huts, Towns and Towers
