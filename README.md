@@ -23,8 +23,9 @@ The instance asks for up to 6 GB of memory; change it in the instance's settings
 You begin in **Haven**, a walled village on an island, with a quest already in your journal. The people
 of the village have gold marks over their heads: **!** means they have work for you, **?** means they are
 waiting to hear how it went. Right click them to talk. The Elder, the Trainer and the Smith walk you through
-your first steps; the Smith, the Alchemist and the Provisioner sell gear, healing draughts and supplies for
-silver, and buy the gear you do not want.
+your first steps. Down the south avenue are the traders: the Armourer and the Weaponsmith at the first two
+market stalls (new stock every morning), the Alchemist for healing draughts, the Provisioner for potions and
+food, and the Smith, who upgrades and mends gear and breaks up what you do not want. All of them buy gear.
 
 The **Waygate** north of the square leads to the zones. Each is its own island with a level range and a
 scout waiting by the gate with that island's quests: thin the enemy, find the treasure caches (a pillar of
@@ -40,8 +41,8 @@ far end. Tell the Captain in Haven, and the next island opens:
 | Emberdeep | 23 to 30 | The Ashlord |
 
 Bosses mark the ground before they strike, each in its own pattern: get out of the circles. If you fall
-you wake in Haven with everything you were carrying, and your Hearthstone takes you back there from
-anywhere. The gate also leads to **The Wilds**, the ordinary open Minecraft world with all its dungeons, for
+you wake in Haven with everything you were carrying, and **H** recalls you there from anywhere, once a
+minute. The gate also leads to **The Wilds**, the ordinary open Minecraft world with all its dungeons, for
 when you want no walls.
 
 When you join a world you choose a class and are handed its weapon:
@@ -58,6 +59,7 @@ When you join a world you choose a class and are handed its weapon:
 | R | ultimate |
 | Space | dodge toward the cursor |
 | F | drink a Healing Draught |
+| H | recall to Haven |
 | K | skills: spend points, pick upgrades, switch class |
 | J | quest journal |
 | I or P | your hero: what you wear, your numbers, your bag |
@@ -78,6 +80,11 @@ Armour is made for one class, and each class has its own look in five tiers, one
 Vanguard's plate, the Arcanist's hooded robes, the Ranger's leathers. Weapons change with their tier too.
 Enemies also drop **shards** (one kind per zone). Take them to Dorran the Smith and choose "Upgrade my
 gear": each upgrade, up to +5, adds 10% to a piece's numbers for a few shards and some silver.
+
+Weapons and armour wear with use, and more when you fall; the bar under a piece shows its condition. A
+broken piece adds nothing until the Smith mends it ("Mend all my gear"). He also breaks old gear up for
+shards: finer pieces give more. Every piece sits on the colour of its rarity: grey, green, blue, purple,
+gold.
 
 Kills and quests give experience, up to level 30. Every level gives two skill points. Each of the four
 skills on Q W E R can be raised to level 10, and at skill level 4, 7 and 10 you choose one of several
