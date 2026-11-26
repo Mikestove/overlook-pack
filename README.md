@@ -132,6 +132,18 @@ Each weapon's skills keep their own upgrade choices; skill levels are shared.
 Each class keeps its own level, and you can switch between them at any time from the skills screen. Gear comes
 in ten tiers, a new look every few zones, up to level 100.
 
+**Things to chase:**
+
+- **Relics.** Every named enemy and every boss carries one legendary piece of its own, named after it
+  ("Gorefang's Stride"), stronger than an ordinary legendary. One kill in sixteen drops it (one in eight
+  from a boss). The journal counts how many you have found.
+- **Exotic armour.** Three whole suits that any class can wear: the **Seraph's Raiment** (wings of light
+  and a turning halo), the **Voidreaver's Shroud** (black blades and shards that circle you) and the
+  **Emberwyrm's Scales** (a dragon's skull, wings and tail). They glow in the dark, they move, and they
+  grow with you so they are never out of date. Two pieces of a suit give a bonus; all four wake its power
+  and wrap you in its light. Maeve the Collector in Haven sells one suit each day at a ruinous price, and
+  once in a very long while an enemy drops a piece: the whole server is told when that happens.
+
 | | |
 |---|---|
 | Right click, or hold | walk to the cursor; on a person, a gate or a cache: walk up and use it |
