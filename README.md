@@ -54,6 +54,19 @@ far end. Tell the Captain in Haven, and the next island opens:
 | Sunscar Ruins | 10 to 15 | The Sand King |
 | Frostfang Pass | 16 to 22 | The Frost Warden |
 | Emberdeep | 23 to 30 | The Ashlord |
+| Drownmire | 31 to 36 | The Mire Queen |
+| Stormcrag | 37 to 42 | The Thunderhead |
+| The Verdance | 43 to 48 | The Bloom Tyrant |
+| Glimmerdeep | 49 to 55 | The Prism Heart |
+| Redmesa | 56 to 62 | The Mesa Wyrm |
+| Sporefall | 63 to 69 | The Mycelord |
+| Petalreach | 70 to 76 | The Hollow Shogun |
+| Gloomhollow | 77 to 84 | The Deep Warden |
+| Voidshore | 85 to 92 | The Rift Tyrant |
+| The Sundered Throne | 93 to 100 | The Fallen King |
+
+The ten zones past Emberdeep are about twice the size of the first five, with a longer road, three named
+foes in lairs, ruined hamlets and shrines off the path, and two or three dungeons each.
 
 The realm has its own creatures, three kinds to a zone and a boss at the end of each road: Rotwalkers,
 Tusklings and Strawmen in Greenhollow under **Old Tusk**; Webspinners, Boneguards and Wisp Hags in the
