@@ -36,6 +36,12 @@ Just east of the gate is the **Heroes' Lodge**, the house with the teal roof and
 yours: the dark chests inside are a stash, and what you put in one only you will find there again. Your bag
 holds 54 things besides the belt; when the top half is full, what you pick up goes into the bottom half.
 
+**Mounts** get you about faster. Press **V** to ride and again to get down; fighting or being hit puts you
+back on your feet. Everyone starts with a Courser, and each zone's boss, the first time you bring it down,
+adds another to your stable (**N**): the War Boar, Forest Stag, Dune Charger, Frost Wolf and Cinder Hound,
+each a little quicker than the last. There is no riding in dungeons. There is also no crafting in the realm:
+gear comes from fights, quests, caches and traders.
+
 The **Waygate** north of the square leads to the zones. Each is its own island with a level range and a
 scout waiting by the gate with that island's quests: thin the enemy, find the treasure caches (a pillar of
 gold light marks each one), kill the two named elites in their lairs, and then the boss in its arena at the
@@ -102,6 +108,8 @@ When you join a world you choose a class and are handed its weapon:
 | Mouse wheel | zoom |
 | [ and ], or drag with the middle button | turn the view (dragging up and down tilts it) |
 | Double click the middle button, or Home | put the view back as it was |
+| V | mount or dismount |
+| N | your mounts |
 | F6 | ordinary first-person Minecraft, and back |
 
 A gold pointer at your hero's feet shows the way to your current quest, and the quest list sits at the
