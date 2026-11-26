@@ -124,7 +124,7 @@ in ten tiers, a new look every few zones, up to level 100.
 | F | drink a Healing Draught |
 | H | recall to Haven |
 | K | skills: spend points, pick upgrades, switch class |
-| J | quest journal |
+| J | your journal: quests, how much of each place you have found and done, and your records |
 | I or P | your hero: what you wear, your numbers, your bag |
 | Mouse wheel | zoom |
 | [ and ], or drag with the middle button | turn the view (dragging up and down tilts it) |
