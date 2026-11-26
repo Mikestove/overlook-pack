@@ -65,7 +65,8 @@ or *Veteran*. Players on different settings share the same world. On a server, o
 `/overlook difficulty <player> <little|normal|veteran>` does the same from the console.
 
 Playing together: everyone near a kill gets the experience and silver and their own drops for their own
-class, heroes cannot hurt each other, and a boss met by a party is sturdier.
+class, heroes cannot hurt each other, camps hold more enemies for each extra hero nearby, and elites and bosses
+met by a party are sturdier.
 
 When you join a world you choose a class and are handed its weapon:
 
