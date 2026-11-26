@@ -59,9 +59,13 @@ you wake in Haven with everything you were carrying, and **H** recalls you there
 minute. The gate also leads to **The Wilds**, the ordinary open Minecraft world with all its dungeons, for
 when you want no walls.
 
-Each player sets their own **difficulty** in the pause menu (Esc): *Little Hero* for small children
-(enemies barely hurt and fall fast, and wounds heal by themselves), *Hero*, or *Veteran*. Players on
-different settings can share a world.
+The host of the world sets the **difficulty** for each player from the pause menu (Esc, then Difficulty):
+*Little Hero* for small children (enemies barely hurt and fall fast, and wounds heal by themselves), *Hero*,
+or *Veteran*. Players on different settings share the same world. On a server, operators are the hosts, and
+`/overlook difficulty <player> <little|normal|veteran>` does the same from the console.
+
+Playing together: everyone near a kill gets the experience and silver and their own drops for their own
+class, heroes cannot hurt each other, and a boss met by a party is sturdier.
 
 When you join a world you choose a class and are handed its weapon:
 
