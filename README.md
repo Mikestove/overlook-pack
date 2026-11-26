@@ -115,6 +115,20 @@ When you join a world you choose a class and are handed its weapon:
 - **Shadowblade**: twin blades. Slippery: appears behind an enemy, vanishes in smoke.
 - **Lancer**: a spear. Long reach, and skills that run a whole line of enemies through.
 
+**Every class has a second weapon**, found as loot or bought from the weaponsmith. Put it in your hand and
+left-click, Q, W and E become a different set of skills (R and the dodge stay the same):
+
+| Class | Second weapon | What it changes |
+|---|---|---|
+| Vanguard | Greataxe | slower, heavier: a thrown axe, a war cry for the party, a reaping spin that drags enemies in |
+| Arcanist | Stormrod | lightning that jumps from enemy to enemy, a thunderclap, a charged patch of ground |
+| Ranger | Repeater | a fast crossbow: explosive bolts, caltrops, a stream of rapid fire |
+| Templar | Sceptre | fights from a distance: bolts and lances of light, party healing over time, holy ground |
+| Shadowblade | Chakrams | thrown ring blades that bounce between enemies, a chain to pull one in, a cutting dash |
+| Lancer | Trident | waves and whirlpools that drag enemies to you, and a leaping wave |
+
+Each weapon's skills keep their own upgrade choices; skill levels are shared.
+
 Each class keeps its own level, and you can switch between them at any time from the skills screen. Gear comes
 in ten tiers, a new look every few zones, up to level 100.
 
