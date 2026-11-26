@@ -40,6 +40,13 @@ far end. Tell the Captain in Haven, and the next island opens:
 | Frostfang Pass | 16 to 22 | The Frost Warden |
 | Emberdeep | 23 to 30 | The Ashlord |
 
+The islands grow as you go: each zone is larger than the last, with more bands of enemies along its
+road. Every zone also has a **dungeon**. Look for a dark stone with a burning doorway on it, standing
+between four lit pillars a little way off the road; right click it to go down. Inside are rooms of the
+zone's toughest enemies, treasure rooms at the dead ends, and the dungeon's master in the last hall, who
+drops far more than anything on the island above. A stone in the first room and one in the master's hall
+lead back out.
+
 Bosses mark the ground before they strike, each in its own pattern: get out of the circles. If you fall
 you wake in Haven with everything you were carrying, and **H** recalls you there from anywhere, once a
 minute. The gate also leads to **The Wilds**, the ordinary open Minecraft world with all its dungeons, for
