@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/overlook.jar"
-hash = "f4220168fb47182556972a96c82ab2f1cb69abaa71761c659ecf4bc3e5f61b67"
+hash = "72ca4de8c87009a714e14ed6ba092d69c64ddd856d197182ee8d2456023cac0d"
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
